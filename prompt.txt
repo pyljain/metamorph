@@ -1,0 +1,1 @@
+Could you please give me a description of the game. Please describe it in under 100 words. {{.col1}}
